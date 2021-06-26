@@ -1,0 +1,19 @@
+{
+  "name": "test001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minodyhealth/test001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minodyhealth/test001/issues"
+  },
+  "homepage": "https://github.com/minodyhealth/test001#readme"
+}
